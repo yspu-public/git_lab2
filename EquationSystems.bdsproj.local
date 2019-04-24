@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.04.15 01:04:24.226.pas,C:\Users\SonkK\Documents\Borland Studio Projects\Unit1.pas=C:\Users\SonkK\Desktop\lesson2\equations.pas</Transaction>
+    <Transaction>2019.04.15 01:04:24.226.dfm,C:\Users\SonkK\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\SonkK\Desktop\lesson2\equations.dfm</Transaction>
+    <Transaction>2019.04.15 01:14:31.055.bdsproj,C:\Users\SonkK\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\SonkK\Desktop\git_lesson2\EquationSystems.bdsproj</Transaction>
+    <Transaction>2019.04.22 12:08:42.385.bdsproj,C:\Users\4i\Desktop\git_lesson2_done\EquationSystems.bdsproj=C:\Users\4i\Desktop\git_lesson2_done\EquationSystems.bdsproj</Transaction>
+    <Transaction>2019.04.24 09:48:42.400.bdsproj,C:\Users\SonkK\Desktop\Git_Лабораторная_работа_2\git_lab2\EquationSystems.bdsproj=C:\Users\SonkK\Desktop\Git_Лабораторная_работа_2\git_lab2\EquationSystems.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
